@@ -1,0 +1,1 @@
+dataset <- readRDS("data/trajactory.rds")
